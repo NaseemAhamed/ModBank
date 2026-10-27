@@ -1,0 +1,10 @@
+services:
+  modbank:
+    build:
+      context: .
+    image: modbank-fintech-challenge:1.0.0
+    ports:
+      - "127.0.0.1:8080:80"
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
