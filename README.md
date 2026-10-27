@@ -4,7 +4,7 @@ A self-contained, Angular-powered coding game for a careers charity event booth.
 
 > **ModBank is a fictional educational demonstration, not an actual bank or a Modulr Finance product.** The name was proposed for an event run by Modulr Finance staff; the demo does not use company credentials or APIs.
 
-## Quick start: each of the six laptops
+## Quick start:
 
 **Prerequisite:** Docker Desktop (or Docker Engine + Compose plugin), with the Docker service started. Internet access is needed **once** to download the Node/Nginx images and npm packages during the initial build.
 
